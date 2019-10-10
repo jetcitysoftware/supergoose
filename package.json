@@ -1,0 +1,25 @@
+{
+  "name": "@code-fellows/supergoose",
+  "version": "1.0.0",
+  "description": "Jest testing wrapper around mongo-db server library",
+  "main": "supergoose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetcitysoftware/supergoose.git"
+  },
+  "keywords": [
+    "jest",
+    "mongo",
+    "mongoose",
+    "mock"
+  ],
+  "author": "Code Fellows",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetcitysoftware/supergoose/issues"
+  },
+  "homepage": "https://github.com/jetcitysoftware/supergoose#readme"
+}
