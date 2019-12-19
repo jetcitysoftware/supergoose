@@ -1,6 +1,6 @@
 {
   "name": "@code-fellows/supergoose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jest testing wrapper around mongo-db server library",
   "main": "supergoose.js",
   "scripts": {
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/jetcitysoftware/supergoose/issues"
   },
-  "homepage": "https://github.com/jetcitysoftware/supergoose#readme"
+  "homepage": "https://github.com/jetcitysoftware/supergoose#readme",
+  "dependencies": {
+    "mongodb-memory-server": "^6.0.2",
+    "mongoose": "^5.8.1",
+    "supertest": "^4.0.2"
+  }
 }
